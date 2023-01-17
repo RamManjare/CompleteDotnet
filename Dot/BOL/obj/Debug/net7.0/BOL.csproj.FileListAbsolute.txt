@@ -1,0 +1,12 @@
+E:\Ramcdac2022\DNet\Dot\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\Ramcdac2022\DNet\Dot\BOL\bin\Debug\net7.0\BOL.dll
+E:\Ramcdac2022\DNet\Dot\BOL\bin\Debug\net7.0\BOL.pdb
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.dll
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\BOL.pdb
+E:\Ramcdac2022\DNet\Dot\BOL\obj\Debug\net7.0\ref\BOL.dll

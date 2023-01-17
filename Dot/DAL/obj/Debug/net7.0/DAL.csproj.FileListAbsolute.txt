@@ -1,0 +1,15 @@
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\Ramcdac2022\DNet\Dot\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\Ramcdac2022\DNet\Dot\DAL\bin\Debug\net7.0\DAL.dll
+E:\Ramcdac2022\DNet\Dot\DAL\bin\Debug\net7.0\DAL.pdb
+E:\Ramcdac2022\DNet\Dot\DAL\bin\Debug\net7.0\BOL.dll
+E:\Ramcdac2022\DNet\Dot\DAL\bin\Debug\net7.0\BOL.pdb
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.dll
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\DAL.pdb
+E:\Ramcdac2022\DNet\Dot\DAL\obj\Debug\net7.0\ref\DAL.dll
